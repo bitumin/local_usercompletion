@@ -44,7 +44,7 @@ class behat_local_usercompletion extends behat_base {
      *
      * @param TableNode $data
      */
-    public function the_following_course_completions_exist(TableNode $data): void {
+    public function the_following_course_completions_exist(TableNode $data) {
         global $DB;
 
         foreach ($data->getHash() as $elementdata) {
