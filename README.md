@@ -1,4 +1,4 @@
-## Moodle plugin local_usercompletion
+## Moodle plugin local_usercompletion [![Build Status](https://travis-ci.org/bitumin/local_usercompletion.svg?branch=master)](https://travis-ci.org/bitumin/local_usercompletion)
 
 Shows simple user completion reports.
 
