@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_usercompletion';
-$plugin->version = 2019020401;
-$plugin->release = '0.0.1';
+$plugin->version = 2019020402;
+$plugin->release = '0.0.2';
 $plugin->requires = 2017051500;
 $plugin->maturity = MATURITY_ALPHA;
 $plugin->cron = 0;
