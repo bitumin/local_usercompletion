@@ -51,7 +51,7 @@ class completionreport_view implements templatable, renderable {
     protected $userid;
 
     /**
-     * edit_program_view constructor.
+     * completionreport_view constructor.
      *
      * @param context $context
      * @param int $userid

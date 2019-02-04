@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * tool_tenant steps definitions.
+ * local_usercompletion steps definitions.
  *
  * @package    local_usercompletion
  * @copyright  2019 Mitxel Moriana <moriana.mitxel@gmail.com>
