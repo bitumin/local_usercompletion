@@ -1,4 +1,4 @@
-@local_usercompletion
+@local @local_usercompletion
 Feature: View user completion report
   As an admin
   I need to be able to see a user course completion report
